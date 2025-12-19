@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "reason": "Server upgrade",
   "message": "The game server is down for maintenance - Expected downtime < 20 mins."
 }
