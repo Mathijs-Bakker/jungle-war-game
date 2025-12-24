@@ -1,5 +1,5 @@
 {
   "enabled": true,
   "reason": "Server upgrade",
-  "message": "MAINTENANCE_STATUS_MESSAGE"
+  "message": "SERVER_MAINTENANCE_MODE_MSG"
 }
